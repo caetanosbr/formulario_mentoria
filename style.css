@@ -108,6 +108,11 @@ gap: 22px;
   color: #C1BCCC;
 }
 
+.input-wrapper label span:hover {
+  font-weight: bolder;
+  color: #6c6a71;
+}
+
 .input-wrapper input {
 
   background: #FAFAFC;
